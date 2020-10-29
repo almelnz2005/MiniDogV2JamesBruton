@@ -1,1 +1,17 @@
+MiniDog V2 - Robot
+In hopes of getting ready for final project. I've been doing research on robotics. I’ve been learning a lot on design, embedded systems, power management, programming and many other disciplines. I’ve used other’s designs to gather inspiration and hopefully learn from them. Below is one of those inspirations.
+The MiniDog V2 is created by James Bruton, can be found on Youtube and Github, and is a low-cost option to building a robot. He’s got tons of designs so check him out.
+He doesn’t provide detailed instructions on how to build them, problems he ran into, how does the code work but I’m hoping this is what I bring to the table. 
 
+Links:
+Youtube: https://www.youtube.com/user/jamesbruton
+Github: https://github.com/XRobots
+
+Problem 1 - 3D Printing
+I've started by printing the body. The biggest parts that need to be printed are the ribs. They measure about 300x150mm so a large print 3d printer is needed. I did have to export all the solids in the model as STLs so i can print them. I dont know how to do this automatically so i had to export each at a time. I printed with 5% infill and about 5 shells top and bottom layers. They are pretty stiff and should be able to take weight and stress.
+
+MiniDog V2 - Problem 1: 3d Printing
+I am printing in sections and will provide you with the rest of the files as i progress.
+
+Body
+These are some of the biggest parts to be printed so a large format printer (300x300mm) is needed. Below are the STLs for the body only. You will also need 1 inch square aluminum tubing and 10mm aluminum round stock. Ive been looking online and locally for the round stock but cant seem to find it at 10mm. Im going to try 3/8" and will let you know if this works. I will also provide you with BOM as i get closer to finishing printing the body.
